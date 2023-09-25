@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\10istockphoto-1368151370-170667a.jpg",
+      "PackagePath": "staticwebassets\\Profile\\10istockphoto-1368151370-170667a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\11istockphoto-1368151370-170667a.jpg",
+      "PackagePath": "staticwebassets\\Profile\\11istockphoto-1368151370-170667a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\12istockphoto-1368151370-170667a.jpg",
+      "PackagePath": "staticwebassets\\Profile\\12istockphoto-1368151370-170667a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\13istockphoto-1368151370-170667a.jpg",
+      "PackagePath": "staticwebassets\\Profile\\13istockphoto-1368151370-170667a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\1image4.jpg",
+      "PackagePath": "staticwebassets\\Profile\\1image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\1image5.jpg",
+      "PackagePath": "staticwebassets\\Profile\\1image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\1istockphoto-1368151370-170667a.jpg",
+      "PackagePath": "staticwebassets\\Profile\\1istockphoto-1368151370-170667a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\2image4.jpg",
+      "PackagePath": "staticwebassets\\Profile\\2image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\2image5.jpg",
+      "PackagePath": "staticwebassets\\Profile\\2image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\2istockphoto-1368151370-170667a.jpg",
+      "PackagePath": "staticwebassets\\Profile\\2istockphoto-1368151370-170667a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\3image5.jpg",
+      "PackagePath": "staticwebassets\\Profile\\3image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\3istockphoto-1368151370-170667a.jpg",
+      "PackagePath": "staticwebassets\\Profile\\3istockphoto-1368151370-170667a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\4image4.jpg",
+      "PackagePath": "staticwebassets\\Profile\\4image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\4istockphoto-1368151370-170667a.jpg",
+      "PackagePath": "staticwebassets\\Profile\\4istockphoto-1368151370-170667a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\6image1.jpg",
+      "PackagePath": "staticwebassets\\Profile\\6image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\7istockphoto-1368151370-170667a.jpg",
+      "PackagePath": "staticwebassets\\Profile\\7istockphoto-1368151370-170667a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rupenjaychoudhary\\Downloads\\EHR_project\\EHR_project\\wwwroot\\Profile\\9image5.jpg",
+      "PackagePath": "staticwebassets\\Profile\\9image5.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EHR_project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EHR_project.props",
+      "PackagePath": "build\\EHR_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EHR_project.props",
+      "PackagePath": "buildMultiTargeting\\EHR_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EHR_project.props",
+      "PackagePath": "buildTransitive\\EHR_project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
